@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumaryash7
 - 👀 I’m interested in coding,android development.
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on projects based on android development.
+- 💞️ I’m looking to collaborate on projects based on android and web development.
 - 📫 You can contact me via my email--> kumaryash7111@gmail.com
 
 <!---
